@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Color-Bloom
+Color Bloom is a beautifully designed emotional wellness website that detects a user's mood through text input, facial expression, and voice tone, then translates that mood into a unique color, motivational quote, and a funny meme to uplift their spirit.
+>>>>>>> 305dd883dd8c3bfa713335c78b541493043727ac
